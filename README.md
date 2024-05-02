@@ -1,75 +1,55 @@
 Shrey Patel, Ankush Singh
-# EventPlanner Web Application
-## Overview
-EventPlanner is a web-based application designed to simplify and streamline the
-organization and management of various events, including corporate conferences,
-music festivals, and local community gatherings. Our platform aims to address the
-challenges faced by event organizers, attendees, and vendors, offering a
-comprehensive suite of tools to enhance the efficiency and experience of planning and
-participating in events.
 
-## Problem Statement
-The process of organizing events is fraught with complexity, requiring meticulous
-coordination of logistics, registrations, and communication among all parties involved.
-EventPlanner seeks to solve these challenges by providing a centralized platform that
-simplifies these aspects, making event management more accessible and efficient.
+##Online Shopping Cart (E-Commerce Website)
+##Overview
+Online Shopping Cart is a dynamic E-Commerce Website designed for the seamless buying and selling of electronics products online. This platform addresses the challenges faced by online shoppers and store administrators by providing a comprehensive suite of tools that enhance the efficiency and experience of shopping online.
 
-## Purpose and Scope
-### Purpose
-EventPlanner's mission is to offer a one-stop solution for event organizers, attendees,
-and vendors. It aims to:
-- Enable organizers to effortlessly create and manage event details.
-- Facilitate easy registration and ticket purchasing for attendees.
-- Provide vendors a platform to showcase their services and connect with organizers.
-- Establish a communication hub for real-time updates and discussions.
-### Scope
+##Problem Statement
+The process of online shopping involves various complexities including product management, user registration, order processing, and payment handling. Online Shopping Cart seeks to solve these challenges by offering a centralized platform that simplifies and secures these aspects, making online shopping more accessible and efficient.
+
+##Purpose and Scope
+Purpose
+The mission of Online Shopping Cart is to provide a comprehensive solution for both customers and administrators, aiming to:
+
+Facilitate easy and secure user registration and login.
+Streamline the browsing, selection, and checkout processes for customers.
+Provide administrators with robust tools for product management and order tracking.
+Enable seamless communication and notifications through automated emails.
+Scope
 Our application delivers:
-- **Event Creation and Management:** A user-friendly interface for organizers to detail
-events.
-- **Registration and Ticketing:** An efficient system for ticket purchases and e-ticket
-delivery.
-Shrey Patel
-Ankush Singh
-- **Vendor Collaboration:** Opportunities for vendors to promote their services and
-engage with event organizers.
-- **Communication Hub:** Event-specific chat rooms for seamless communication
-among all stakeholders.
+Product Browsing and Management: A user-friendly interface for customers to browse products and for admins to manage inventory.
+Registration and Authentication: Secure and efficient user registration and login processes.
+Order Processing and Tracking: Systems for handling orders, payments, and tracking order statuses.
+Notification System: Automated email notifications for registration, order updates, and promotional campaigns.
 
-## Key Functionalities
-- **User Authentication:** Secure access for all user categories.
-- **Event Creation and Editing:** Comprehensive tools for managing event listings.
-- **Event Listings:** Easily navigable and categorized events.
-- **Ticketing System:** A streamlined process for buying tickets and checking into
-events.
-- **Vendor Profiles:** A feature for vendors to display their offerings and for organizers
-to find them.
-- **Event Chat Rooms:** Dedicated spaces for discussion and information exchange.
-  
-## Technical Architecture
-EventPlanner is built on a three-tier architecture:
-- **Presentation Layer:** Utilizes JSP, HTML/CSS/JavaScript, and Bootstrap for a
-dynamic and responsive UI.
-- **Business Logic Layer:** Employs Servlets and JavaBeans to process requests and
-manage data.
-- **Data Layer:** Uses XML for storing and managing event-related data.
-  
-## Getting Started
-This section will provide instructions on how to set up the project locally.
+##Key Functionalities
+User Authentication: Secure access for customers and administrators.
+Product Listing and Management: Tools for adding, updating, and removing products.
+Order Management: Systems to handle orders, including checkout, payment, and status tracking.
+Automated Email Notifications: Sending emails for various user actions and updates.
 
-### Prerequisites
-- Java JDK
-- Apache Tomcat
-- Any IDE that supports JSP and Servlet development (e.g., IntelliJ IDEA, Eclipse)
+##Technical Architecture
+Online Shopping Cart is built on a robust technical foundation:
+Presentation Layer: Utilizes HTML, CSS, JavaScript, and Bootstrap for a dynamic and responsive user interface.
+Business Logic Layer: Employs Servlets, JavaBeans, and JDBC to handle business logic and database operations.
+Data Layer: Uses MySQL for storing and managing user and product data.
 
-### Installation
-1. Clone the repository to your local machine.
-2. Configure your IDE to use the Java JDK and Apache Tomcat server.
-3. Import the project into your IDE and resolve any dependencies.
-4. Start the Tomcat server and navigate to `localhost:8080` to access the EventPlanner
-application.
+##Prerequisites
+Java JDK 8+
+Apache Tomcat
+Intellij
+MySQL Server and Workbench
+Apache Maven
 
-## Contributing
+##Installation
+Clone the repository from GitHub.
+Configure Eclipse to use Java JDK, Apache Maven, and the Tomcat server.
+Import the project into Eclipse and resolve any dependencies.
+Start the Tomcat server and navigate to http://localhost:8080/shopping-cart to access the application.
+Contributing
 We welcome contributions from all members. Please follow the guidelines below:
-- Fork the repository.
-- Create a new branch for each feature or improvement.
-- Submit a pull request from your feature branch to our main branch for review.
+
+##Fork the repository.
+Create a new branch for each feature or improvement.
+Submit a pull request from your feature branch to our main branch for review.
+
