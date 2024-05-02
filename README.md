@@ -1,7 +1,7 @@
 Shrey Patel, Ankush Singh
 
-##Online Shopping Cart (E-Commerce Website)
-##Overview
+#Online Shopping Cart (E-Commerce Website)
+#Overview
 Online Shopping Cart is a dynamic E-Commerce Website designed for the seamless buying and selling of electronics products online. This platform addresses the challenges faced by online shoppers and store administrators by providing a comprehensive suite of tools that enhance the efficiency and experience of shopping online.
 
 ##Problem Statement
