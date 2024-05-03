@@ -1,6 +1,6 @@
-Ankush Singh, Shrey Patel
+# Ankush Singh, Shrey Patel
 
-Project Proposal for EventPlanner Web Application
+## Project Proposal for EventPlanner Web Application
 Title: EventPlanner - Streamlining Event Management
 Problem Statement:
 In the world of event organization—be it corporate events, music festivals, or community
