@@ -1,57 +1,66 @@
-Shrey Patel, Ankush Singh
+Ankush Singh, Shrey Patel
 
-**Online Shopping Cart**
-
-**Overview**
-Online Shopping Cart is a dynamic E-Commerce Website designed for the seamless buying and selling of electronics products online. This platform addresses the challenges faced by online shoppers and store administrators by providing a comprehensive suite of tools that enhance the efficiency and experience of shopping online.
-
-**Problem Statement**
-The process of online shopping involves various complexities including product management, user registration, order processing, and payment handling. Online Shopping Cart seeks to solve these challenges by offering a centralized platform that simplifies and secures these aspects, making online shopping more accessible and efficient.
-
-**Purpose and Scope**
-
-Purpose
-The mission of Online Shopping Cart is to provide a comprehensive solution for both customers and administrators, aiming to:
-Facilitate easy and secure user registration and login.
-Streamline the browsing, selection, and checkout processes for customers.
-Provide administrators with robust tools for product management and order tracking.
-Enable seamless communication and notifications through automated emails.
-Scope
-Our application delivers:
-Product Browsing and Management: A user-friendly interface for customers to browse products and for admins to manage inventory.
-Registration and Authentication: Secure and efficient user registration and login processes.
-Order Processing and Tracking: Systems for handling orders, payments, and tracking order statuses.
-Notification System: Automated email notifications for registration, order updates, and promotional campaigns.
-
-**Key Functionalities**
-User Authentication: Secure access for customers and administrators.
-Product Listing and Management: Tools for adding, updating, and removing products.
-Order Management: Systems to handle orders, including checkout, payment, and status tracking.
-Automated Email Notifications: Sending emails for various user actions and updates.
-
-**Technical Architecture**
-Online Shopping Cart is built on a robust technical foundation:
-Presentation Layer: Utilizes HTML, CSS, JavaScript, and Bootstrap for a dynamic and responsive user interface.
-Business Logic Layer: Employs Servlets, JavaBeans, and JDBC to handle business logic and database operations.
-Data Layer: Uses MySQL for storing and managing user and product data.
-
-**Prerequisites**
-Java JDK 8+
-Apache Tomcat
-Intellij
-MySQL Server and Workbench
-Apache Maven
-
-**Installation**
-Clone the repository from GitHub.
-Configure Eclipse to use Java JDK, Apache Maven, and the Tomcat server.
-Import the project into Eclipse and resolve any dependencies.
-Start the Tomcat server and navigate to http://localhost:8080/shopping-cart to access the application.
-
-**Contributing**
-We welcome contributions from all members. Please follow the guidelines below:
-
-**Fork the repository**
-Create a new branch for each feature or improvement.
-Submit a pull request from your feature branch to our main branch for review.
-
+Project Proposal for EventPlanner Web Application
+Title: EventPlanner - Streamlining Event Management
+Problem Statement:
+In the world of event organization—be it corporate events, music festivals, or community
+gatherings—the complexity and demand for efficient management are ever-present.
+Organizers face challenges in coordinating logistics, managing registrations, and
+facilitating communication among participants. The EventPlanner web application aims
+to address these issues by providing a streamlined, user-friendly platform that simplifies
+the event management process.
+Purpose and Scope:
+Purpose:
+EventPlanner seeks to establish a comprehensive platform catering to the needs of
+event organizers, attendees, and service vendors. Its primary purpose is to enhance the
+efficiency of organizing and participating in events through digital innovation. The
+application is designed to:
+Facilitate easy creation and management of events by organizers.
+Simplify the registration and ticket purchasing process for attendees.
+Enable vendors to showcase their services and engage with event organizers.
+Provide a centralized communication hub for all parties involved in an event.
+Scope:
+The EventPlanner application will offer a range of functionalities to support its diverse
+user base:
+Event Creation and Management: Organizers can easily set up events, specifying
+crucial details such as date, location, and ticket prices.
+Ankush Singh
+Shrey Patel
+Registration and Ticketing: A seamless process for attendees to register, purchase
+tickets, and receive e-tickets.
+Vendor Collaboration: A platform for vendors to present their services and connect with
+event organizers for potential collaborations.
+Communication Hub: Dedicated chat rooms for each event to facilitate communication
+among attendees, organizers, and vendors.
+Key Functionalities:
+User Authentication: Robust security measures for user registration and login, ensuring
+data protection for organizers, attendees, and vendors.
+Event Creation and Editing: Tools for organizers to add new events, modify existing
+details, and manage their event listings efficiently.
+Event Listings: An interactive, filterable list of events categorized by type (e.g.,
+conferences, concerts), facilitating easy navigation for users.
+Ticketing System: A comprehensive ticketing module enabling online ticket purchases,
+e-ticket delivery, and event check-ins.
+Vendor Profiles: A feature for vendors to create detailed profiles, highlighting their
+services, and for organizers to discover and connect with these vendors.
+Event Chat Rooms: Real-time chat functionality to support dynamic discussions and
+information sharing related to events.
+Technical Architecture:
+The EventPlanner application will be built on a three-tier architecture, ensuring a
+scalable, maintainable, and secure platform:
+Presentation Layer: Utilizes JSP for dynamic content generation, coupled with
+HTML/CSS/JavaScript for crafting an engaging user interface. Bootstrap will be
+incorporated to achieve a responsive design that adapts to various screen sizes.
+Ankush Singh
+Shrey Patel
+Business Logic Layer: Employs Servlets to manage application requests, process data,
+and facilitate interactions between the presentation layer and the data layer. JavaBeans
+will be used for encapsulating the business logic and managing application data.
+Data Layer: Leverages XML for structured storage of event information, attendee
+details, and vendor profiles, ensuring flexibility and ease of data management.
+Submission Instructions:
+A GitHub repository will be created for the EventPlanner project, where each team
+member will have a dedicated branch for collaborative development. The repository will
+include a detailed README file covering the project title, problem statement, purpose,
+scope, and an overview of the application's key functionalities and technical
+architecture.
