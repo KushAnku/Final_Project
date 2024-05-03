@@ -29,6 +29,6 @@ attendees, and vendors through a comprehensive suite of features.
 - **Demo Payment Gateway:** For demonstration purposes, the payment page accepts any credit card details to simulate order placement.
 
 ## Video of the Project
-[Watch Here](https://www.youtube.com/watch?v=qK8Gij_N6BA)
+(https://www.youtube.com/watch?v=qK8Gij_N6BA)
 
 **Shrey Patel and Ankush Singh**
