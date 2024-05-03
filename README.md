@@ -28,7 +28,6 @@ attendees, and vendors through a comprehensive suite of features.
 - **Secure Checkout System:** Integrated checkout system for event registrations and product purchases.
 - **Demo Payment Gateway:** For demonstration purposes, the payment page accepts any credit card details to simulate order placement.
 
-## Video of the Project
-(https://www.youtube.com/watch?v=qK8Gij_N6BA)
+**Video of the Project**: (https://www.youtube.com/watch?v=qK8Gij_N6BA)
 
 **Shrey Patel and Ankush Singh**
