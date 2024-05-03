@@ -29,3 +29,5 @@ Database Management: Managed through a  MySQL database.
 *Payment and Checkout:*
 Secure Checkout System: Integrated checkout system for event registrations and product purchases.
 Demo Payment Gateway: For demonstration purposes, the payment page accepts any credit card details to simulate order placement.
+
+*video of the project:* https://www.youtube.com/watch?v=qK8Gij_N6BA
